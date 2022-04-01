@@ -23,17 +23,17 @@ Math and reading scores by grade
     - Scores by school spending
     ![schoolspending](scores_by_school_spending.png)
     
-    School spending has been split into four ranges. This was determined by calculating the amount each school spends per student and then split into four groups as evenly as possible. 
+School spending has been split into four ranges. This was determined by calculating the amount each school spends per student and then split into four groups as evenly as possible. 
     
     - Scores by school size
     ![schoolsize](scores_by_school_size.png)
     
-    Splitting the school size into three groups was determined by the amount of students per school and the number of schools there are. 
+Splitting the school size into three groups was determined by the amount of students per school and the number of schools there are. 
     
     - Scores by school type
     ![schooltype](scores_by_school_type.png)
     
-    There are two types of schools already categorized for us. 
+There are two types of schools already categorized for us. 
     
 ## Summary
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
