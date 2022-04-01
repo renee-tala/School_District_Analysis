@@ -3,10 +3,9 @@ We are analysizing a school district's metrics using Jupter Notebook and Pandas.
 
 ## Results
 
-How is the district summary affected?
-How is the school summary affected?
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-How does replacing the ninth-grade scores affect the following:
+* How is the district summary affected?
+* How is the school summary affected?
+
 * Math and reading scores by grade before replace ninth grade scores:
   ![originalscores](avg_original.png)
 * Math and reading scores by grade after replacing ninth grade scores:
