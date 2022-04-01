@@ -1,14 +1,17 @@
-# School District Analysis
-## Overview of the school district analysis
+# Overview of the school district analysis
 We are analysizing a school district's metrics using Jupter Notebook and Pandas.
 
-## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+## Results
 
 How is the district summary affected?
 How is the school summary affected?
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
+* Math and reading scores by grade before replace ninth grade scores:
+  ![originalscores](avg_original.png)
+* Math and reading scores by grade after replacing ninth grade scores:
+  ![no_ninth](avg_no_ninth_ths.png)
+* As you can see 
 
 - The following three images show district scores based on spending, size, and type. 
     - Scores by school spending
