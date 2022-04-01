@@ -11,7 +11,10 @@ How does replacing the ninth-grade scores affect the following:
   ![originalscores](avg_original.png)
 * Math and reading scores by grade after replacing ninth grade scores:
   ![no_ninth](avg_no_ninth_ths.png)
-* As you can see 
+  * As you can see, Thomas High School's percentage of passing has gone down without the ninth grade class. 
+  * The percentage passing math went from 93.3% to 66.9%
+  * The percentage passing reading went from 97.3% to 69.6%.
+  * The overall passing percentage went from 90.9% to 65.1%.
 
 - The following three images show district scores based on spending, size, and type. 
     - Scores by school spending
