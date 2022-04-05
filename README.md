@@ -39,4 +39,7 @@ You are working for a school board analyzing students grades at Thomas High Scho
     - There are two types of schools already categorized for us. 
     
 ## Summary
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+- This analysis shows that:
+  - Thomas High School's averages in grades plummets after removing the ninth grader's scores. 
+  - Therefore, Thomas High School lost its place as one of the top five schools in the District.
+  - We cannot determine whether or not academic dishonesty truly took place using this analysis. Removing an entire grade level from a school within a district would result in a major difference in the school summary and district summart, regardless of plagarism or cheating.
