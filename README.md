@@ -2,7 +2,7 @@
 
 ## Overview of the Analysis
 You are working for a school board analyzing students grades at Thomas High School. There is evidence of academic dishonesty, so your supervisor wants you to remove ninth grader's reading and math grades at Thomas High School. Once you've removed and replaced the data with NaNs, conduct the distrcit summary and school summary again. 
-You will also show:
+- You will also show:
   - The top 5 and bottom 5 performing schools
   - The average math score for each grade level for each school
   - The average reading score for each grade level for each school
