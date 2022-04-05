@@ -1,10 +1,7 @@
 # Overview of the school district analysis
 We are analysizing a school district's metrics using Jupter Notebook and Pandas.
 
-## Results
-
-* How is the district summary affected?
-* How is the school summary affected?
+## Resultts
 
 * Math and reading scores by grade before replace ninth grade scores:
   ![originalscores](avg_original.png)
